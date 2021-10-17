@@ -1,5 +1,6 @@
 __init__.py
 **/in_production.py
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
