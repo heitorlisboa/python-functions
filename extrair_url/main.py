@@ -64,7 +64,7 @@ class ExtratorUrl:
 
 
 if __name__ == '__main__':
-    
+
     minha_url = ExtratorUrl('https://www.google.com/search?client=opera-gx&q=pesquisa+de+teste&sourceid=opera&ie=UTF-8&oe=UTF-8')
     # minha_url = ExtratorUrl('https://www.youtube.com/results?search_query=pesquisa+de+teste')
     # minha_url = ExtratorUrl('https://www.youtube.com')
